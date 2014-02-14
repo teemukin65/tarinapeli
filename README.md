@@ -26,4 +26,4 @@ Tarinapeli - Storygame rules:
 
 
 Features: 
-  See the user story doc : doc/tarinapeli_user_stories.xls
+  See the user story doc : https://github.com/teemukin65/tarinapeli/wiki/User-stories----backlog
